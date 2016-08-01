@@ -1,0 +1,4 @@
+2	Tariq	26	Teacher	Luxury	2015	8	8	7890
+4	Saqib	33	Professor	Delux	2015	4	17	7000
+4	Ali	29	Engineer	Luxury	2017	8	9	2999
+77777	Addd	99	p	Super Luxury	2022	7	3	55555
